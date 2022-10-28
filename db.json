@@ -1,5 +1,5 @@
 {
-  "quiz1": [
+  "quiz": [
     { "hurigana": "しょくば", "answer": "職場" },
     { "hurigana": "たつ", "answer": "絶つ" },
     { "hurigana": "しゅうろうりつ", "answer": "就労率" },
@@ -33,6 +33,23 @@
     { "hurigana": "ことさら", "answer": "殊更" },
     { "hurigana": "どうりょう", "answer": "同僚" },
     { "hurigana": "ふせる", "answer": "伏せる" },
-    { "hurigana": "こしつ", "answer": "固執" }
+    { "hurigana": "こしつ", "answer": "固執" },
+    { "hurigana": "さけぶ", "answer": "叫ぶ" },
+    { "hurigana": "ふみだす", "answer": "踏み出す" },
+    { "hurigana": "いたばさみ", "answer": "板挟み" },
+    { "hurigana": "なみだ", "answer": "涙" },
+    { "hurigana": "うったえる", "answer": "訴える" },
+    { "hurigana": "こきゃく", "answer": "顧客" },
+    { "hurigana": "になう", "answer": "担う" },
+    { "hurigana": "かせぐ", "answer": "稼ぐ" },
+    { "hurigana": "しょうしん", "answer": "昇進" },
+    { "hurigana": "はげしい", "answer": "激しい" },
+    { "hurigana": "せいいっぱい", "answer": "精いっぱい" },
+    { "hurigana": "げんじょう", "answer": "現状" },
+    { "hurigana": "せっきょくてき", "answer": "積極的" },
+    { "hurigana": "ひんど", "answer": "頻度" },
+    { "hurigana": "してき", "answer": "指摘" },
+    { "hurigana": "ちょうさ", "answer": "調査" },
+    { "hurigana": "へる", "answer": "減る" }
   ]
 }

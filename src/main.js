@@ -1,5 +1,10 @@
 import { requestList } from "./list.js";
 
+const quiz = await requestList();
+
 export default function main({ $target, selectNum }) {
-  const quiz = selectNum == "1" ? requestList("quiz1") : requestList("quiz2");
+  for (var i = 0; i < selectNum; i++) {
+    var num = Math.floor(Math.random() * quiz.length);
+    console.log(quiz[num].hurigana);
+  }
 }

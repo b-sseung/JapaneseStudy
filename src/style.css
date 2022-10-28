@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "japanese";
+  src: url("/font/MochiyPopOne-Regular.ttf");
+}
+
+@font-face {
+  font-family: "korean";
+  src: url("/font/Eulyoo1945-Regular.ttf");
+}
+
+body,
+.body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.buttonTitle {
+  font-family: "korean";
+  font-size: 20px;
+  text-align: center;
+  padding-top: 40vh;
+}
+
+.buttonBox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.button {
+  font-family: "korean";
+  border: solid 1px gray;
+  padding: 10px;
+  margin: 1vw;
+}
