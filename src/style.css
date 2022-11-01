@@ -35,4 +35,44 @@ body,
   border: solid 1px gray;
   padding: 10px;
   margin: 1vw;
+  cursor: pointer;
+}
+
+.situation {
+  font-family: "korean";
+  font-size: 4vmin;
+  text-align: center;
+  padding: 20px;
+  background: #e0e0e0;
+}
+
+.word-box {
+  font-family: "japanese";
+  font-size: 10vmin;
+  text-align: center;
+  height: 50vh;
+  margin: 10vmin 5vmin 5vmin 5vmin;
+  border: 1px solid gray;
+}
+
+.word {
+  top: 50%;
+  position: relative;
+  transform: translateY(-50%);
+}
+
+.next-box {
+  font-family: "korean";
+  font-size: 3vmin;
+  text-align: center;
+  margin-top: 7vmin;
+  position: relative;
+  top: 10%;
+}
+
+.next {
+  border: 1px solid gray;
+  display: inline;
+  padding: 3px;
+  cursor: pointer;
 }
