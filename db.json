@@ -50,6 +50,22 @@
     { "hurigana": "ひんど", "answer": "頻度" },
     { "hurigana": "してき", "answer": "指摘" },
     { "hurigana": "ちょうさ", "answer": "調査" },
-    { "hurigana": "へる", "answer": "減る" }
+    { "hurigana": "へる", "answer": "減る" },
+    { "hurigana": "へいきん", "answer": "平均" },
+    { "hurigana": "ちょうせい", "answer": "調整" },
+    { "hurigana": "たんしゅく", "answer": "短縮" },
+    { "hurigana": "しんや", "answer": "深夜" },
+    { "hurigana": "およぶ", "answer": "及ぶ" },
+    { "hurigana": "きぎょう", "answer": "企業" },
+    { "hurigana": "ほけん", "answer": "保険" },
+    { "hurigana": "うながす", "answer": "促す" },
+    { "hurigana": "めいわく", "answer": "迷惑" },
+    { "hurigana": "がいとう", "answer": "該当" },
+    { "hurigana": "どうし", "answer": "同士" },
+    { "hurigana": "はげましあう", "answer": "励まし合う" },
+    { "hurigana": "にゅうようじ", "answer": "乳幼児" },
+    { "hurigana": "きょうりょく", "answer": "協力" },
+    { "hurigana": "かんきょう", "answer": "環境" },
+    { "hurigana": "すいしん", "answer": "推進" }
   ]
 }
